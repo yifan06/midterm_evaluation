@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.24)  24 MAR 2015 16:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.24)  25 MAR 2015 12:35
 entering extended mode
  %&-line parsing enabled.
 **midterm_yifan.tex
@@ -1494,17 +1494,17 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 53.
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-<images/telecom.png, id=27, 106.3975pt x 106.3975pt>
+<images/telecom.png, id=35, 106.3975pt x 106.3975pt>
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png>
-<images/logocnrs.png, id=28, 301.125pt x 245.91875pt>
+<images/logocnrs.png, id=36, 301.125pt x 245.91875pt>
 File: images/logocnrs.png Graphic file (type png)
 
-<use images/logocnrs.png> <images/logoanr.png, id=30, 150.5625pt x 81.30376pt>
+<use images/logocnrs.png> <images/logoanr.png, id=38, 150.5625pt x 81.30376pt>
 File: images/logoanr.png Graphic file (type png)
 
 <use images/logoanr.png>
-<images/logo_lamsade.png, id=31, 678.535pt x 259.97125pt>
+<images/logo_lamsade.png, id=39, 678.535pt x 259.97125pt>
 File: images/logo_lamsade.png Graphic file (type png)
 
 <use images/logo_lamsade.png> [1
@@ -1514,17 +1514,17 @@ copy)> <./images/logocnrs.png> <./images/logoanr.png> <./images/logo_lamsade.pn
 g>] (./midterm_yifan.toc)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 73.
 
 File: images/telecom.png Graphic file (type png)
 <use images/telecom.png> [2
 
 ]
-<images/cerebrale.png, id=62, 640.3925pt x 494.84875pt>
+<images/cerebrale.png, id=68, 640.3925pt x 494.84875pt>
 File: images/cerebrale.png Graphic file (type png)
 
 <use images/cerebrale.png>
-<figures/highjump.png, id=64, 572.1375pt x 537.00626pt>
+<figures/highjump.png, id=70, 572.1375pt x 537.00626pt>
 File: figures/highjump.png Graphic file (type png)
 
 <use figures/highjump.png>
@@ -1543,11 +1543,11 @@ File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [5
 
 ]
-<images/flowchart_3_crop.pdf, id=95, 439.6425pt x 366.36874pt>
+<images/flowchart_3_crop.pdf, id=101, 439.6425pt x 366.36874pt>
 File: images/flowchart_3_crop.pdf Graphic file (type pdf)
 
 <use images/flowchart_3_crop.pdf>
-Overfull \vbox (176.07187pt too high) detected at line 203
+Overfull \vbox (176.07187pt too high) detected at line 197
  []
 
 File: images/telecom.png Graphic file (type png)
@@ -1555,13 +1555,17 @@ File: images/telecom.png Graphic file (type png)
 
  <./images/flowchart_3_crop.pdf>]
 (./midterm_yifan.toc)
+<images/flowchart_kb_crop.pdf, id=132, 232.87pt x 257.96375pt>
+File: images/flowchart_kb_crop.pdf Graphic file (type pdf)
+
+<use images/flowchart_kb_crop.pdf>
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [7
 
-]
+ <./images/flowchart_kb_crop.pdf>]
 File: images/cerebrale.png Graphic file (type png)
  <use images/cerebrale.png>
-Overfull \vbox (3.53197pt too high) detected at line 222
+Overfull \vbox (3.53197pt too high) detected at line 250
  []
 
 File: images/telecom.png Graphic file (type png)
@@ -1572,40 +1576,47 @@ File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [9
 
 ]
-Overfull \hbox (209.8384pt too wide) in paragraph at lines 300--300
+Overfull \hbox (209.8384pt too wide) in paragraph at lines 328--328
 [] 
  []
 
 
-Overfull \hbox (35.17235pt too wide) in paragraph at lines 300--300
+Overfull \hbox (35.17235pt too wide) in paragraph at lines 328--328
 [] 
  []
 
 File: images/cerebrale.png Graphic file (type png)
 <use images/cerebrale.png>
-Overfull \hbox (12.33154pt too wide) detected at line 300
+Overfull \hbox (12.33154pt too wide) detected at line 328
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
 File: images/telecom.png Graphic file (type png)
 <use images/telecom.png> [10
 
-]
+] (./midterm_yifan.toc)
+<images/flowchart_sr_crop.pdf, id=178, 232.87pt x 257.96375pt>
+File: images/flowchart_sr_crop.pdf Graphic file (type pdf)
+
+<use images/flowchart_sr_crop.pdf>
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [11
 
+ <./images/flowchart_sr_crop.pdf>]
+File: images/telecom.png Graphic file (type png)
+ <use images/telecom.png> [12
+
 ]
 File: images/telecom.png Graphic file (type png)
-
-<use images/telecom.png> [12
+ <use images/telecom.png>
+[13
 
 ]
-LaTeX Font Info:    Try loading font information for U+euf on input line 369.
-
-(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd
+LaTeX Font Info:    Try loading font information for U+euf on input line 408.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
 )
-Overfull \hbox (7.3412pt too wide) detected at line 369
+Overfull \hbox (7.3412pt too wide) detected at line 408
 \OT1/cmss/m/it/10.95 LVl \OMS/cmsy/m/n/10.95 u 9\OT1/cmss/m/it/10.95 isPartOf\O
 ML/cmm/m/it/10.95 :\OT1/cmss/m/it/10.95 Hemisphere \OMS/cmsy/m/n/10.95 u 8\OT1/
 cmss/m/n/10.95 (\OT1/cmss/m/it/10.95 leftOf[] \OMS/cmsy/m/n/10.95 u \OT1/cmss/m
@@ -1615,63 +1626,64 @@ f\OML/cmm/m/it/10.95 :\OMS/cmsy/m/n/10.95 :\OT1/cmss/m/it/10.95 Brain
  []
 
 File: images/telecom.png Graphic file (type png)
-<use images/telecom.png> [13
+<use images/telecom.png> [14
 
 ]
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [14
+ <use images/telecom.png> [15
 
 ]
 File: images/telecom.png Graphic file (type png)
 
-<use images/telecom.png> [15
+<use images/telecom.png> [16
 
 ] (./midterm_yifan.toc)
-File: images/telecom.png Graphic file (type png)
- <use images/telecom.png>
-[16
+<images/flowchart_ar_crop.pdf, id=240, 232.87pt x 257.96375pt>
+File: images/flowchart_ar_crop.pdf Graphic file (type pdf)
 
-]
+<use images/flowchart_ar_crop.pdf>
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [17
 
+ <./images/flowchart_ar_crop.pdf>]
+File: images/telecom.png Graphic file (type png)
+ <use images/telecom.png> [18
+
 ]
-Overfull \hbox (12.37498pt too wide) in paragraph at lines 473--473
+Overfull \hbox (12.37498pt too wide) in paragraph at lines 523--523
 []  
  []
 
 File: images/telecom.png Graphic file (type png)
-<use images/telecom.png> [18
+<use images/telecom.png> [19
 
 ]
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [19
+ <use images/telecom.png> [20
 
 ]
 File: images/telecom.png Graphic file (type png)
 
-<use images/telecom.png> [20
+<use images/telecom.png> [21
 
 ]
-File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [21
-
-]
-(./midterm_yifan.toc)
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [22
 
 ]
+File: images/flowchart_ar_crop.pdf Graphic file (type pdf)
+
+<use images/flowchart_ar_crop.pdf>
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png>
-[23
+ <use images/telecom.png> [23
 
 ]
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [24
+
+<use images/telecom.png> [24
 
 ]
-Overfull \vbox (9.23576pt too high) detected at line 650
+Overfull \vbox (9.23576pt too high) detected at line 714
  []
 
 File: images/telecom.png Graphic file (type png)
@@ -1697,10 +1709,10 @@ Package logreq Info: Writing requests to 'midterm_yifan.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25939 strings out of 495061
- 513542 string characters out of 1182621
- 707321 words of memory out of 3000000
- 28436 multiletter control sequences out of 15000+50000
+ 26000 strings out of 495061
+ 515367 string characters out of 1182621
+ 706252 words of memory out of 3000000
+ 28492 multiletter control sequences out of 15000+50000
  19379 words of font info for 73 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  52i,18n,74p,819b,1653s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1710,15 +1722,16 @@ live/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-texlive/fonts/type1/publi
 c/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi10
-.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/
-share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
--texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fon
-ts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf-texlive/fonts/type1
-/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/publi
-c/amsfonts/symbols/msbm10.pfb>
-Output written on midterm_yifan.pdf (25 pages, 1478263 bytes).
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/euler/eufm10.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb>
+Output written on midterm_yifan.pdf (25 pages, 1718810 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 160 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 366 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 

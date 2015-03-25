@@ -87,7 +87,7 @@ rectangle, rounded corners, inner sep=10pt, inner ysep=20pt]
 
 
 \newcommand{\LogoLine}{%
-  \raisebox{-12mm}[0pt][0pt]{%
+  \raisebox{-14mm}[0pt][0pt]{%
    	\begin{pgfpicture}{0mm}{0mm}{0mm}{0mm}
     	 \pgfsetlinewidth{0.28mm}
     	  \color{gray}

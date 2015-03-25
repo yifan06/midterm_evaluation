@@ -68,6 +68,9 @@ Advisors: & Isabelle BLOCH\\
 % aggregation
 % jamal
 % \end{frame}
+\begin{frame}{Outline}
+\tableofcontents[hideallsubsections]
+\end{frame}
 
 \begin{frame}{Motivation}
 % \begin{center}
@@ -130,13 +133,13 @@ Advisors: & Isabelle BLOCH\\
  \begin{itemize}
   \item Graph-based approaches
   \begin{itemize}
-   \item Bayesian network [S. Nikolopoulos \textit{et al.}, 2009].
-   \item And-Or graph image grammar [F. Han \textit{et al.}, 2009] and [K. Tu \textit{et al.}, 2014].
+   \item Bayesian network \textcolor{gray}{[S. Nikolopoulos \textit{et al.}, 2009]}.
+   \item And-Or graph image grammar  \textcolor{gray}{[F. Han \textit{et al.}, 2009]} and \textcolor{gray}{[K. Tu \textit{et al.}, 2014]}.
   \end{itemize}
   \item Logic-based approaches
   \begin{itemize}
-   \item Aggregation concepts (additional rules) [S. Espinosa \textit{et al.}, 2007].
-   \item Knowledge representation based on formal concept analysis and reasoning based on morphological method [J. Atif \textit{et al.}, 2014].
+   \item Aggregation concepts (additional rules) \textcolor{gray}{[S. Espinosa \textit{et al.}, 2007]}.
+   \item Knowledge representation based on formal concept analysis and reasoning based on morphological method \textcolor{gray}{[J. Atif \textit{et al.}, 2014]}.
   \end{itemize}
  \end{itemize}
  
@@ -147,15 +150,6 @@ Advisors: & Isabelle BLOCH\\
     \item Adaptive minimality criteria.
    \end{itemize}
  \end{alertblock}
-
-% \begin{textblock}{100}(10,80)
-% \tiny 
-% [J. Atif \textit{et al.}, 2014] Explanatory reasoning for image understanding using formal concept analysis and description logics,	\emph{IEEE Transactions on Systems, Man and Cybernetics, 2014}.
-% \end{textblock}
-% \begin{textblock}{100}(10,85)
-% \tiny 
-% [S. Espinosa \textit{et al.}, 2007] Multimedia Interpretation as Abduction, \emph{20th International Workshop on Description Logics}.
-% \end{textblock}
 \end{frame}
 
 
@@ -201,10 +195,44 @@ Advisors: & Isabelle BLOCH\\
 	\end{figure}
  	\vspace{5cm}
 \end{frame}
-
-
 %====================Preliminary=================================
 \section{Knowledge representation and reasoning}
+\subsection{Conceptual knowledge representation}
+% \begin{frame}{Outline}
+% \begin{minipage}[t][0.6\textheight]{0.6\textwidth}
+%  \vspace{0pt} 
+% \tableofcontents[currentsection,hideallsubsections,subsubsectionstyle=hide]
+% \end{minipage}
+% 
+% \begin{minipage}[t]{0.35\textwidth} 
+%  \vspace{0pt}  
+%  \includegraphics[width=.9\textwidth]{images/flowchart_3_crop.pdf}
+% \end{minipage}
+% \end{frame}
+
+% \begin{frame}{Outline}
+% \begin{minipage}[t][0.6\textheight]{0.6\textwidth}
+%  \vspace{0pt} 
+% \tableofcontents[currentsection,hideallsubsections,subsubsectionstyle=hide]
+% \end{minipage}
+% 
+% \tikz[remember picture,overlay]
+%  \node at ([xshift=-3.5cm,yshift=-3.5cm]current page.east) 
+%   {\includegraphics[height=2cm,keepaspectratio]{images/flowchart_3_crop.pdf}};
+% \end{frame}
+
+\begin{frame}{Outline}
+\begin{columns}
+ \begin{column}{0.6\textwidth}
+  \tableofcontents[currentsection,hideothersubsections,subsectionstyle=show/shaded]
+ \end{column}
+
+ \begin{column}{.4\textwidth}
+  \includegraphics[width=.9\textwidth]{images/flowchart_kb_crop.pdf}
+ \end{column}
+\end{columns}
+\end{frame}
+
 \begin{frame}{Description Logics (Syntax)}
 \begin{block}{Signature and constructors ($\mathcal{ALC}$)}
 $Sig=(N_C,N_R,N_I)$: sets of concepts, roles and individuals.\\
@@ -290,7 +318,7 @@ Description of experts' background knowledge.
  \end{column}
 
  \begin{column}{.5\textwidth}
-        Representing the observation.
+        Description of the observation.
   	\begin{figure}
 	\includegraphics[width=.5\textwidth]{images/cerebrale.png}
 	\end{figure}
@@ -299,7 +327,18 @@ Description of experts' background knowledge.
 \end{exampleblock}
 \end{frame}
 
+\subsection{Spatial knowledge representation and reasoning}
+\begin{frame}{Outline}
+\begin{columns}
+ \begin{column}{0.6\textwidth}
+  \tableofcontents[currentsection,hideothersubsections,subsectionstyle=show/shaded]
+ \end{column}
 
+ \begin{column}{.4\textwidth}
+  \includegraphics[width=.9\textwidth]{images/flowchart_sr_crop.pdf}
+ \end{column}
+\end{columns}
+\end{frame}
 \begin{frame}{Qualitative spatial representation (QSR)}
 \begin{block}{Need of qualitative spatial reasoning}
 \begin{itemize}
@@ -432,6 +471,17 @@ level 3/.style={level distance=3cm, sibling distance=6cm}]
 \end{frame}
 %====================Ongoing work=================================
 \section{Abductive reasoning}
+\begin{frame}{Outline}
+\begin{columns}
+ \begin{column}{0.6\textwidth}
+  \tableofcontents[currentsection,hideothersubsections,subsectionstyle=show/shaded]
+ \end{column}
+
+ \begin{column}{.4\textwidth}
+  \includegraphics[width=.9\textwidth]{images/flowchart_ar_crop.pdf}
+ \end{column}
+\end{columns}
+\end{frame}
 \begin{frame}{Abductive reasoning}
 %  from observation to explanation but whether it is necessary to present here or after.
 %  Need of non-monotonic reasoning tools, i.e. image interpretation as an
@@ -503,7 +553,7 @@ $$C_\mathcal{T} \equiv \sqcap_{(C_i \sqsubseteq D_i\in \mathcal{T})} (\neg C_i \
 
 
 
-\begin{frame}{Minimal hitting set}
+\begin{frame}{Generating potential hypotheses}
 
 % 
 % In the following part, all the concepts and roles are represented by an abbreviation including the first letter and capital letters.
@@ -518,8 +568,10 @@ Six branches are open in the tableau at the end. In each one, the set of concept
   H_5&=\{ PDT, \neg BT, \forall hE. \neg NE, \forall hB. \neg In, \exists fF.LV\}\\
   H_6&=\{ PDT, \neg BT, \forall hE. \neg NE, \forall hB. \neg In, \exists hL.PCH\}\\
  \end{align*}
+ 
+ \begin{block}{Minimal hitting set (\textit{Complexity: NP-hard.})} 
  \begin{center}
-\begin{tikzpicture}[scale=0.4, transform shape, every text node part/.style={align=center},level 1/.style={level distance=2cm,sibling distance=8cm},level 2/.style={level distance=1cm, sibling distance=2.5cm}]
+\begin{tikzpicture}[scale=0.4, transform shape, every text node part/.style={align=center},level 1/.style={level distance=1cm,sibling distance=8cm},level 2/.style={level distance=1cm, sibling distance=2.5cm}]
 \node [sibling distance=12cm] {$\emptyset$}
 child { node []{$SDT$}
      child{ node []{$SDT$}}
@@ -528,7 +580,8 @@ child { node []{$SDT$}
 }
 child { node  []{$PDT$}
      child{ node []{$SDT$}}     
-     child{ node []{$PDT$}}
+     child{ node []{$PDT$}
+	child{ node []{$\cdots$}}}
      child{ node []{$\exists fF.LV$}}
 }
 child { node  []{$\exists hE.NE$}
@@ -536,9 +589,9 @@ child { node  []{$\exists hE.NE$}
      child{ node []{$PDT$}}
      child{ node []{$\exists fF.LV$}}
 };
-
 \end{tikzpicture}
 \end{center}
+ \end{block}
 \end{frame}
 
 \begin{frame}{Minimality criteria}
@@ -582,6 +635,9 @@ child { node  []{$\exists hE.NE$}
 % high level processing abduction
 % 
 % perspective more interaction between these two layers
+\begin{columns}
+ \begin{column}{.7\textwidth}
+  
 \begin{block}{Conclusion}
  \begin{itemize}
   \item A complete image interpretation system.
@@ -601,6 +657,14 @@ child { node  []{$\exists hE.NE$}
  \item Fuzzy logic.
 \end{itemize}
 \end{block}
+ \end{column}
+
+  \begin{column}{.3\textwidth}
+    \includegraphics[width=.9\textwidth]{images/flowchart_ar_crop.pdf}
+  \end{column}
+
+
+\end{columns}
 
 % 
 %  fuzzy logic, for the precise decision

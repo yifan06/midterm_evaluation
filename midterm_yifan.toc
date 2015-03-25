@@ -6,6 +6,10 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {2}{Knowledge representation and reasoning}{7}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{Abductive reasoning}{16}{0}{3}
+\beamer@subsectionintoc {2}{1}{Conceptual knowledge representation}{7}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Conclusion and perspectives}{22}{0}{4}
+\beamer@subsectionintoc {2}{2}{Spatial knowledge representation and reasoning}{11}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Abductive reasoning}{17}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Conclusion and perspectives}{23}{0}{4}
