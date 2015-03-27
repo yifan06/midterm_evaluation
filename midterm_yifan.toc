@@ -4,12 +4,12 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {1}{Introduction}{2}{0}{1}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {2}{Knowledge representation and reasoning}{7}{0}{2}
+\beamer@sectionintoc {2}{Knowledge representation and reasoning}{8}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {2}{1}{Conceptual knowledge representation}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Conceptual knowledge representation}{8}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@subsectionintoc {2}{2}{Spatial knowledge representation and reasoning}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Spatial representation and reasoning}{12}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{Abductive reasoning}{17}{0}{3}
+\beamer@sectionintoc {3}{Abductive reasoning}{18}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Conclusion and perspectives}{23}{0}{4}
+\beamer@sectionintoc {4}{Conclusion and perspectives}{24}{0}{4}

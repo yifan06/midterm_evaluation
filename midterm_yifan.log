@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.24)  25 MAR 2015 12:35
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.9.24)  27 MAR 2015 18:51
 entering extended mode
  %&-line parsing enabled.
 **midterm_yifan.tex
@@ -1091,7 +1091,7 @@ Package: subcaption 2008/08/31 v1.0b Adding subcaptions (AR)
 \c@subfigure=\count309
 \c@subtable=\count310
 )
-(./beamerthemeTpt.sty (/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
 
@@ -1153,35 +1153,13 @@ File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
 hs.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
 )))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
-ations.pathreplacing.code.tex
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
-ations.code.tex
-(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen206
-\pgfdecoratedremainingdistance=\dimen207
-\pgfdecoratedinputsegmentcompleteddistance=\dimen208
-\pgfdecoratedinputsegmentremainingdistance=\dimen209
-\pgf@decorate@distancetomove=\dimen210
-\pgf@decorate@repeatstate=\count320
-\pgfdecorationsegmentamplitude=\dimen211
-\pgfdecorationsegmentlength=\dimen212
-)
-\tikz@lib@dec@box=\box61
-)
-(/usr/share/texmf/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.p
-athreplacing.code.tex))
-(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
-code.tex
-File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
-)
 (/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
 s.code.tex
 File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 
 (/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
-\arrowsize=\dimen213
+\arrowsize=\dimen206
 ))
 (/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
 s.code.tex
@@ -1230,27 +1208,49 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 (/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.c
 ode.tex
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v2.10 (rcs-revision 1.2)
-\pgfnodepartlowerbox=\box62
-\pgfnodeparttwobox=\box63
-\pgfnodepartthreebox=\box64
-\pgfnodepartfourbox=\box65
-\pgfnodeparttwentybox=\box66
-\pgfnodepartnineteenbox=\box67
-\pgfnodeparteighteenbox=\box68
-\pgfnodepartseventeenbox=\box69
-\pgfnodepartsixteenbox=\box70
-\pgfnodepartfifteenbox=\box71
-\pgfnodepartfourteenbox=\box72
-\pgfnodepartthirteenbox=\box73
-\pgfnodeparttwelvebox=\box74
-\pgfnodepartelevenbox=\box75
-\pgfnodeparttenbox=\box76
-\pgfnodepartninebox=\box77
-\pgfnodeparteightbox=\box78
-\pgfnodepartsevenbox=\box79
-\pgfnodepartsixbox=\box80
-\pgfnodepartfivebox=\box81
-)))
+\pgfnodepartlowerbox=\box61
+\pgfnodeparttwobox=\box62
+\pgfnodepartthreebox=\box63
+\pgfnodepartfourbox=\box64
+\pgfnodeparttwentybox=\box65
+\pgfnodepartnineteenbox=\box66
+\pgfnodeparteighteenbox=\box67
+\pgfnodepartseventeenbox=\box68
+\pgfnodepartsixteenbox=\box69
+\pgfnodepartfifteenbox=\box70
+\pgfnodepartfourteenbox=\box71
+\pgfnodepartthirteenbox=\box72
+\pgfnodeparttwelvebox=\box73
+\pgfnodepartelevenbox=\box74
+\pgfnodeparttenbox=\box75
+\pgfnodepartninebox=\box76
+\pgfnodeparteightbox=\box77
+\pgfnodepartsevenbox=\box78
+\pgfnodepartsixbox=\box79
+\pgfnodepartfivebox=\box80
+))) (./beamerthemeTpt.sty
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
+ations.pathreplacing.code.tex
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
+ations.code.tex
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen207
+\pgfdecoratedremainingdistance=\dimen208
+\pgfdecoratedinputsegmentcompleteddistance=\dimen209
+\pgfdecoratedinputsegmentremainingdistance=\dimen210
+\pgf@decorate@distancetomove=\dimen211
+\pgf@decorate@repeatstate=\count320
+\pgfdecorationsegmentamplitude=\dimen212
+\pgfdecorationsegmentlength=\dimen213
+)
+\tikz@lib@dec@box=\box81
+)
+(/usr/share/texmf/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.p
+athreplacing.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
+code.tex
+File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
+)
 (/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarysnake
 s.code.tex
 File: tikzlibrarysnakes.code.tex 2008/02/05 v2.10 (rcs-revision 1.6)
@@ -1309,20 +1309,20 @@ Package biblatex Warning: Patching footnotes failed.
 (./midterm_yifan.aux)
 \openout1 = `midterm_yifan.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -1378,7 +1378,7 @@ driver: pdftex
 \MPnumerator=\count328
 \everyMPtoPDFconversion=\toks59
 ) ABD: EveryShipout initializing macros
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 36.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -1388,8 +1388,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count329
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
 
 (./midterm_yifan.out) (./midterm_yifan.out)
 \@outlinefile=\write6
@@ -1397,47 +1397,47 @@ LaTeX Info: Redefining \pageref on input line 25.
 
 \AtBeginShipoutBox=\box85
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 25.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 25.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 25.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 25.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 25.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 25.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 25.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 25.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 36.
 
 (/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
 onary/translator-basic-dictionary-English.dict
@@ -1476,20 +1476,20 @@ Package biblatex Warning: Data encoding is 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'midterm_yifan.bbl' found.
 (./midterm_yifan.bbl)
-Package biblatex Info: Reference section=0 on input line 25.
-Package biblatex Info: Reference segment=0 on input line 25.
+Package biblatex Info: Reference section=0 on input line 36.
+Package biblatex Info: Reference segment=0 on input line 36.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./midterm_yifan.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 41.
+(hyperref)                setting the option has no effect on input line 48.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -1500,21 +1500,22 @@ File: images/telecom.png Graphic file (type png)
 <images/logocnrs.png, id=36, 301.125pt x 245.91875pt>
 File: images/logocnrs.png Graphic file (type png)
 
-<use images/logocnrs.png> <images/logoanr.png, id=38, 150.5625pt x 81.30376pt>
-File: images/logoanr.png Graphic file (type png)
-
-<use images/logoanr.png>
-<images/logo_lamsade.png, id=39, 678.535pt x 259.97125pt>
+<use images/logocnrs.png>
+<images/logo_lamsade.png, id=38, 678.535pt x 259.97125pt>
 File: images/logo_lamsade.png Graphic file (type png)
 
-<use images/logo_lamsade.png> [1
+<use images/logo_lamsade.png>
+<images/logoanr.png, id=39, 150.5625pt x 81.30376pt>
+File: images/logoanr.png Graphic file (type png)
+ <use images/logoanr.png>
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/telecom.png (PNG 
-copy)> <./images/logocnrs.png> <./images/logoanr.png> <./images/logo_lamsade.pn
+copy)> <./images/logocnrs.png> <./images/logo_lamsade.png> <./images/logoanr.pn
 g>] (./midterm_yifan.toc)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 73.
+(Font)              size <5> substituted on input line 81.
 
 File: images/telecom.png Graphic file (type png)
 <use images/telecom.png> [2
@@ -1543,151 +1544,240 @@ File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [5
 
 ]
-<images/flowchart_3_crop.pdf, id=101, 439.6425pt x 366.36874pt>
-File: images/flowchart_3_crop.pdf Graphic file (type pdf)
+<images/general_schema_a_crop.pdf, id=101, 418.13916pt x 354.90591pt>
+File: images/general_schema_a_crop.pdf Graphic file (type pdf)
 
-<use images/flowchart_3_crop.pdf>
-Overfull \vbox (176.07187pt too high) detected at line 197
+<use images/general_schema_a_crop.pdf>
+<images/general_schema_color_crop.pdf, id=102, 418.13916pt x 354.90591pt>
+File: images/general_schema_color_crop.pdf Graphic file (type pdf)
+
+<use images/general_schema_color_crop.pdf>
+
+! Package tikz Error: Giving up on this path. Did you forget a semicolon?.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 \end{frame}
+                 
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+Missing character: There is no = in font nullfont!
+! You can't use `\lastskip' in restricted horizontal mode.
+\@let@token ...{}\beamer@lastskipcover =\lastskip 
+                                                  \edef \beamer@lastskiptext...
+l.206 \end{frame}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ; in font nullfont!
+
+Overfull \vbox (5.09656pt too high) detected at line 206
  []
 
 File: images/telecom.png Graphic file (type png)
 <use images/telecom.png> [6
 
- <./images/flowchart_3_crop.pdf>]
-(./midterm_yifan.toc)
-<images/flowchart_kb_crop.pdf, id=132, 232.87pt x 257.96375pt>
+ <./images/general_schema_a_crop.pdf> <./images/general_schema_color_crop.pdf>]
+File: images/general_schema_a_crop.pdf Graphic file (type pdf)
+ <use images/general_schema_a_crop.pdf>
+File: images/general_schema_color_crop.pdf Graphic file (type pdf)
+
+<use images/general_schema_color_crop.pdf>
+
+! Package tikz Error: Giving up on this path. Did you forget a semicolon?.
+
+See the tikz package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 \end{frame}
+                 
+(That was another \errmessage.)
+
+Missing character: There is no = in font nullfont!
+! You can't use `\lastskip' in restricted horizontal mode.
+\@let@token ...{}\beamer@lastskipcover =\lastskip 
+                                                  \edef \beamer@lastskiptext...
+l.206 \end{frame}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ; in font nullfont!
+
+Overfull \vbox (5.09656pt too high) detected at line 206
+ []
+
+File: images/telecom.png Graphic file (type png)
+<use images/telecom.png> [7
+
+] (./midterm_yifan.toc)
+<images/flowchart_kb_crop.pdf, id=149, 232.87pt x 257.96375pt>
 File: images/flowchart_kb_crop.pdf Graphic file (type pdf)
 
 <use images/flowchart_kb_crop.pdf>
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [7
+ <use images/telecom.png> [8
 
  <./images/flowchart_kb_crop.pdf>]
 File: images/cerebrale.png Graphic file (type png)
  <use images/cerebrale.png>
-Overfull \vbox (3.53197pt too high) detected at line 250
+Overfull \vbox (9.53197pt too high) detected at line 239
  []
 
 File: images/telecom.png Graphic file (type png)
-<use images/telecom.png> [8
+<use images/telecom.png> [9
 
 ]
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [9
+ <use images/telecom.png> [10
 
 ]
-Overfull \hbox (209.8384pt too wide) in paragraph at lines 328--328
+Overfull \hbox (209.8384pt too wide) in paragraph at lines 309--309
 [] 
  []
 
 
-Overfull \hbox (35.17235pt too wide) in paragraph at lines 328--328
+Overfull \hbox (35.17235pt too wide) in paragraph at lines 309--309
 [] 
  []
 
 File: images/cerebrale.png Graphic file (type png)
 <use images/cerebrale.png>
-Overfull \hbox (12.33154pt too wide) detected at line 328
+Overfull \hbox (12.33154pt too wide) detected at line 309
 [][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
 File: images/telecom.png Graphic file (type png)
-<use images/telecom.png> [10
+<use images/telecom.png> [11
 
 ] (./midterm_yifan.toc)
-<images/flowchart_sr_crop.pdf, id=178, 232.87pt x 257.96375pt>
+<images/flowchart_sr_crop.pdf, id=195, 232.87pt x 257.96375pt>
 File: images/flowchart_sr_crop.pdf Graphic file (type pdf)
 
 <use images/flowchart_sr_crop.pdf>
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [11
+ <use images/telecom.png> [12
 
  <./images/flowchart_sr_crop.pdf>]
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [12
+ <use images/telecom.png> [13
 
 ]
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png>
-[13
+[14
 
 ]
-LaTeX Font Info:    Try loading font information for U+euf on input line 408.
- (/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd
-File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
-)
-Overfull \hbox (7.3412pt too wide) detected at line 408
+Overfull \hbox (52.28815pt too wide) in paragraph at lines 409--409
+[] 
+ []
+
+File: images/cerebrale.png Graphic file (type png)
+<use images/cerebrale.png>
+Overfull \hbox (15.8579pt too wide) detected at line 409
 \OT1/cmss/m/it/10.95 LVl \OMS/cmsy/m/n/10.95 u 9\OT1/cmss/m/it/10.95 isPartOf\O
-ML/cmm/m/it/10.95 :\OT1/cmss/m/it/10.95 Hemisphere \OMS/cmsy/m/n/10.95 u 8\OT1/
-cmss/m/n/10.95 (\OT1/cmss/m/it/10.95 leftOf[] \OMS/cmsy/m/n/10.95 u \OT1/cmss/m
-/it/10.95 closeTo[]\OT1/cmss/m/n/10.95 )\OML/cmm/m/it/10.95 :\OMS/cmsy/m/n/10.9
-5 :\OT1/cmss/m/it/10.95 CNl \OMS/cmsy/m/n/10.95 t 8\OT1/cmss/m/it/10.95 isPartO
-f\OML/cmm/m/it/10.95 :\OMS/cmsy/m/n/10.95 :\OT1/cmss/m/it/10.95 Brain
+ML/cmm/m/it/10.95 :\OT1/cmss/m/it/10.95 Hemisphere \OMS/cmsy/m/n/10.95 u \OT1/c
+mss/m/n/10.95 (\OMS/cmsy/m/n/10.95 8\OT1/cmss/m/n/10.95 (\OT1/cmss/m/it/10.95 l
+eftOf[] \OMS/cmsy/m/n/10.95 u \OT1/cmss/m/it/10.95 closeTo[]\OT1/cmss/m/n/10.95
+ )\OML/cmm/m/it/10.95 :\OMS/cmsy/m/n/10.95 :\OT1/cmss/m/it/10.95 CNl \OMS/cmsy/
+m/n/10.95 t 8\OT1/cmss/m/it/10.95 isPartOf\OML/cmm/m/it/10.95 :\OMS/cmsy/m/n/10
+.95 :\OT1/cmss/m/it/10.95 Brain\OT1/cmss/m/n/10.95 )
  []
 
 File: images/telecom.png Graphic file (type png)
-<use images/telecom.png> [14
+<use images/telecom.png> [15
 
 ]
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [15
+ <use images/telecom.png> [16
 
 ]
 File: images/telecom.png Graphic file (type png)
 
-<use images/telecom.png> [16
+<use images/telecom.png> [17
 
 ] (./midterm_yifan.toc)
-<images/flowchart_ar_crop.pdf, id=240, 232.87pt x 257.96375pt>
+<images/flowchart_ar_crop.pdf, id=252, 232.87pt x 257.96375pt>
 File: images/flowchart_ar_crop.pdf Graphic file (type pdf)
 
 <use images/flowchart_ar_crop.pdf>
-File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [17
-
- <./images/flowchart_ar_crop.pdf>]
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [18
 
+ <./images/flowchart_ar_crop.pdf>]
+File: images/telecom.png Graphic file (type png)
+ <use images/telecom.png> [19
+
 ]
-Overfull \hbox (12.37498pt too wide) in paragraph at lines 523--523
-[]  
+Overfull \hbox (251.98067pt too wide) in paragraph at lines 571--571
+[] 
+ []
+
+
+Overfull \hbox (144.85362pt too wide) in paragraph at lines 571--571
+[] 
+ []
+
+
+Overfull \hbox (42.88885pt too wide) in paragraph at lines 571--571
+ [][] 
+ []
+
+File: images/cerebrale.png Graphic file (type png)
+<use images/cerebrale.png>
+Overfull \hbox (69.40396pt too wide) in paragraph at lines 571--571
+[] 
  []
 
 File: images/telecom.png Graphic file (type png)
-<use images/telecom.png> [19
+<use images/telecom.png> [20
 
 ]
 File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [20
+ <use images/telecom.png> [21
 
 ]
 File: images/telecom.png Graphic file (type png)
 
-<use images/telecom.png> [21
+<use images/telecom.png> [22
 
 ]
-File: images/telecom.png Graphic file (type png)
- <use images/telecom.png> [22
-
-]
-File: images/flowchart_ar_crop.pdf Graphic file (type pdf)
-
-<use images/flowchart_ar_crop.pdf>
 File: images/telecom.png Graphic file (type png)
  <use images/telecom.png> [23
 
 ]
-File: images/telecom.png Graphic file (type png)
+<images/flowchart_cp_crop.pdf, id=300, 232.87pt x 257.96375pt>
+File: images/flowchart_cp_crop.pdf Graphic file (type pdf)
 
-<use images/telecom.png> [24
-
-]
-Overfull \vbox (9.23576pt too high) detected at line 714
+<use images/flowchart_cp_crop.pdf>
+Overfull \vbox (0.38922pt too high) detected at line 699
  []
 
 File: images/telecom.png Graphic file (type png)
+<use images/telecom.png> [24
+
+ <./images/flowchart_cp_crop.pdf>]
+File: images/telecom.png Graphic file (type png)
+
 <use images/telecom.png> [25
+
+]
+Overfull \vbox (9.40001pt too high) detected at line 741
+ []
+
+File: images/telecom.png Graphic file (type png)
+<use images/telecom.png> [26
 
 ]
 \tf@nav=\write7
@@ -1709,13 +1799,13 @@ Package logreq Info: Writing requests to 'midterm_yifan.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26000 strings out of 495061
- 515367 string characters out of 1182621
- 706252 words of memory out of 3000000
- 28492 multiletter control sequences out of 15000+50000
- 19379 words of font info for 73 fonts, out of 3000000 for 9000
+ 26023 strings out of 495061
+ 516194 string characters out of 1182621
+ 707293 words of memory out of 3000000
+ 28518 multiletter control sequences out of 15000+50000
+ 17433 words of font info for 65 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 52i,18n,74p,819b,1653s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 50i,18n,74p,819b,1624s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-tex
 live/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/
@@ -1726,12 +1816,11 @@ m/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi10
 /share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texm
 f-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/f
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/p
-ublic/amsfonts/euler/eufm10.pfb></usr/share/texmf-texlive/fonts/type1/public/am
-sfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/symbols/msbm10.pfb>
-Output written on midterm_yifan.pdf (25 pages, 1718810 bytes).
+ublic/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/symbols/msbm10.pfb>
+Output written on midterm_yifan.pdf (26 pages, 1867897 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 380 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
